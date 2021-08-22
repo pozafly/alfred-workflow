@@ -25,7 +25,7 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 
 <br/>
 
-## IP ~[Download](https://github.com/pozafly/alfred-workflow/raw/main/package-managers/package-managers.alfredworkflow)
+## IP Address (v1.2.0) ~[Download](https://github.com/pozafly/alfred-workflow/raw/main/package-managers/package-managers.alfredworkflow)
 
 <img width="619" alt="스크린샷 2021-08-22 오후 4 41 12" src="https://user-images.githubusercontent.com/59427983/130346917-cdfcc199-a271-4413-ab8f-73f0e81a39ce.png">
 
@@ -39,3 +39,50 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 [packal](http://www.packal.org/workflow/github-repos-0)
 
 <img width="619" alt="스크린샷 2021-08-22 오후 4 47 03" src="https://user-images.githubusercontent.com/59427983/130346923-e9100254-3cda-45c5-9eed-2678f3466363.png">
+
+<br/>
+
+<br/>
+
+## [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.16.0) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/package-managers/package-managers.alfredworkflow)
+
+
+
+<br/>
+
+<br/>
+
+## [fakeum 2.2.2](https://github.com/deanishe/alfred-fakeum) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/fakeum/Fakeum-2.2.2.alfredworkflow)
+
+
+
+<br/>
+
+<br/>
+
+## [vscode](https://github.com/kbshl/alfred-vscode)
+
+
+
+```shell
+$ npm install --global alfred-vscode
+```
+
+<br/>
+
+<br/>
+
+## [tidy](https://github.com/importre/alfred-tidy)
+
+
+
+```shell
+$ npm i -g alfred-tidy
+```
+
+<br/>
+
+<br/>
+
+## [Pagago](http://seungtaek.com/archives/498) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/papago/Papago.alfredworkflow)
+
