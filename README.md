@@ -46,7 +46,7 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 
 ## [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) (v3.16.0) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/package-managers/package-managers.alfredworkflow)
 
-
+<img width="619" alt="스크린샷 2021-08-22 오후 4 59 24" src="https://user-images.githubusercontent.com/59427983/130347273-dd3351b6-7415-40d0-b395-fcd297eccbee.png">
 
 <br/>
 
@@ -54,7 +54,7 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 
 ## [fakeum 2.2.2](https://github.com/deanishe/alfred-fakeum) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/fakeum/Fakeum-2.2.2.alfredworkflow)
 
-
+<img width="619" alt="스크린샷 2021-08-22 오후 4 52 16" src="https://user-images.githubusercontent.com/59427983/130347242-61d2ccde-1d0e-4132-a3aa-a478360b0860.png">
 
 <br/>
 
@@ -62,7 +62,7 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 
 ## [vscode](https://github.com/kbshl/alfred-vscode)
 
-
+<img width="619" alt="스크린샷 2021-08-22 오후 4 54 57" src="https://user-images.githubusercontent.com/59427983/130347249-6639de5c-75c0-4a06-b932-fd68fe9abf21.png">
 
 ```shell
 $ npm install --global alfred-vscode
@@ -74,6 +74,7 @@ $ npm install --global alfred-vscode
 
 ## [tidy](https://github.com/importre/alfred-tidy)
 
+<img width="619" alt="스크린샷 2021-08-22 오후 4 56 31" src="https://user-images.githubusercontent.com/59427983/130347265-7022f736-07ad-4537-9ed5-c55de9a975d6.png">
 
 
 ```shell
@@ -86,3 +87,4 @@ $ npm i -g alfred-tidy
 
 ## [Pagago](http://seungtaek.com/archives/498) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/papago/Papago.alfredworkflow)
 
+<img width="619" alt="스크린샷 2021-08-22 오후 5 00 34" src="https://user-images.githubusercontent.com/59427983/130347275-e8a616b0-2e3b-4cd3-8523-cdddd09fba5c.png">
