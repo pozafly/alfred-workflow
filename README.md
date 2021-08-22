@@ -2,7 +2,7 @@
 Alfred 3 or 4's workflow
 
 [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ Download
-Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~ by @carlosgaldino.
+Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~ by [@carlosgaldino](https://github.com/carlosgaldino/).
 
 > Triggers: `emoji`, `emoji [alt key]`.
 
