@@ -4,7 +4,7 @@ Alfred 3 or 4's workflow
 
 <br/>
 
-## [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ [Download](https://github.com/pozafly/alfred-workflow/blob/main/Emoji/emoji.alfredworkflow)
+## [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/Emoji/emoji.alfredworkflow)
 
 Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~ by [@carlosgaldino](https://github.com/carlosgaldino/).
 
