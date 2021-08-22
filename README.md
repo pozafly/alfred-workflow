@@ -14,3 +14,26 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 
 <br/>
 
+<br/>
+
+## Note ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/note/note.alfredworkflow)
+
+![스크린샷 2021-08-22 오후 4.39.30](/Users/hwangsuntae/Desktop/스크린샷 2021-08-22 오후 4.39.30.png)
+
+<br/>
+
+<br/>
+
+## IP ~[Download](https://github.com/pozafly/alfred-workflow/raw/main/package-managers/package-managers.alfredworkflow)
+
+![스크린샷 2021-08-22 오후 4.41.12](/Users/hwangsuntae/Desktop/스크린샷 2021-08-22 오후 4.41.12.png)
+
+<br/>
+
+<br/>
+
+## [Github repos](https://github.com/edgarjs/alfred-github-repos) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/github-repo/gh-repos-3.1.3.alfredworkflow)
+
+[packal](http://www.packal.org/workflow/github-repos-0)
+
+![스크린샷 2021-08-22 오후 4.47.03](/Users/hwangsuntae/Desktop/스크린샷 2021-08-22 오후 4.47.03.png)
