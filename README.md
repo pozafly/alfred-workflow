@@ -95,9 +95,13 @@ $ npm i -g alfred-tidy
 
 ## [DownVid](https://github.com/patilswapnilv/alfred-workflows-2/tree/master/DownVid) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/downvid/DownVid.alfredworkflow)
 
+<img width="619" alt="스크린샷 2021-08-26 오후 9 19 50" src="https://user-images.githubusercontent.com/59427983/130962240-c909d97e-742a-4ff9-a191-36682c17773f.png">
+
 <br/>
 
 <br/>
 
 ## naver-search ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/naver-search/Naver Search.alfredworkflow)
+
+<img width="619" alt="스크린샷 2021-08-26 오후 9 21 48" src="https://user-images.githubusercontent.com/59427983/130962259-3328e555-e199-4ddd-9bc2-59c8c55a3886.png">
 
