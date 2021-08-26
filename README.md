@@ -101,7 +101,7 @@ $ npm i -g alfred-tidy
 
 <br/>
 
-## naver-search ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/naver-search/Naver Search.alfredworkflow)
+## naver-search ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/naver-search/Naver-Search.alfredworkflow)
 
 <img width="619" alt="스크린샷 2021-08-26 오후 9 21 48" src="https://user-images.githubusercontent.com/59427983/130962259-3328e555-e199-4ddd-9bc2-59c8c55a3886.png">
 
