@@ -88,3 +88,16 @@ $ npm i -g alfred-tidy
 ## [Pagago](http://seungtaek.com/archives/498) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/papago/Papago.alfredworkflow)
 
 <img width="619" alt="스크린샷 2021-08-22 오후 5 00 34" src="https://user-images.githubusercontent.com/59427983/130347275-e8a616b0-2e3b-4cd3-8523-cdddd09fba5c.png">
+
+<br/>
+
+<br/>
+
+## [DownVid](https://github.com/patilswapnilv/alfred-workflows-2/tree/master/DownVid) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/downvid/DownVid.alfredworkflow)
+
+<br/>
+
+<br/>
+
+## naver-search ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/naver-search/Naver Search.alfredworkflow)
+
