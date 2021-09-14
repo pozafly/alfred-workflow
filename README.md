@@ -68,6 +68,13 @@ Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~
 $ npm install --global alfred-vscode
 ```
 
+📌 https://github.com/kbshl/alfred-vscode/issues/18 -> 아래와 같이 터미널에 등록해주면 path를 잘 찾을 수 있다.
+
+```shell
+cd ~/Library/Application\ Support/Code/User/  # or wherever your file is located
+ln -s globalStorage/alefragnani.project-manager/projects.json projects.json 
+```
+
 <br/>
 
 <br/>
