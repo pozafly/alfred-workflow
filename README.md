@@ -110,5 +110,14 @@ $ npm i -g alfred-tidy
 
 ## naver-search ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/naver-search/Naver-Search.alfredworkflow)
 
+Naver Search.alfredworkflow를 다운로드 받아서 실행한다.
+
+MacOS 12.3 이상의 경우
+
+python3 설치
+brew install python
+xcode-select --install
+from: [Kuniz](https://github.com/Kuniz/alfnaversearch)
+
 <img width="619" alt="스크린샷 2021-08-26 오후 9 21 48" src="https://user-images.githubusercontent.com/59427983/130962259-3328e555-e199-4ddd-9bc2-59c8c55a3886.png">
 
