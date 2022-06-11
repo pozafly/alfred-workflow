@@ -4,6 +4,11 @@ Alfred 3 or 4's workflow
 
 <br/>
 
+## Scroll Toggler ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/scroll-toggler/Scroll Toggler)
+
+새로 만든 스크롤 방향 전환기. 마우스랑 트랙패드랑 썪어쓸 때 유용함. 걍 ss 해주면 된당.
+
+
 ## [Emoji](https://github.com/carlosgaldino/alfred-emoji-workflow) (v1.5.0) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/Emoji/emoji.alfredworkflow)
 
 Search for Emojis used by Basecamp, GitHub, GitLab, Trello, and other services ~ by [@carlosgaldino](https://github.com/carlosgaldino/).
