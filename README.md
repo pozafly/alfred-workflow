@@ -4,7 +4,7 @@ Alfred 3 or 4's workflow
 
 <br/>
 
-## Scroll Toggler ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/scroll-toggler/Scroll Toggler)
+## Scroll Toggler ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/scroll-toggler/scroll-toggler.alfredworkflow)
 
 새로 만든 스크롤 방향 전환기. 마우스랑 트랙패드랑 썪어쓸 때 유용함. 걍 ss 해주면 된당.
 
