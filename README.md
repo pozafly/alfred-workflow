@@ -135,3 +135,7 @@ from: [Kuniz](https://github.com/Kuniz/alfnaversearch)
 <br/>
 
 ## [Theme Black Glass Custom] ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/theme/BlackGlassCustom.alfredappearance)
+
+<br/>
+
+## [Copy-Url](https://github.com/fallroot/copy-url-for-alfred) ~ [Download](https://github.com/pozafly/alfred-workflow/raw/main/copy-url/copyurl-catalina.alfredworkflow)
